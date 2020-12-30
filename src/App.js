@@ -14,7 +14,7 @@ function App() {
   return (
     <React.Fragment>
     <div className="App">
-     <h1>Pendut.Ph</h1>
+    
      <Router>
         <Nav/>
         <Switch>

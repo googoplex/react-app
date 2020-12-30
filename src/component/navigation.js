@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 function Nav(){
     return(
       
-        <div className ="bg-blue-50 h-20  flex items-center position-sticky font-sans text-md subpixel-antialiased">
+        <div className ="bg-white h-20  flex items-center sticky top-0 font-sans text-md subpixel-antialiased shadow-sm font-semibold ">
             <div className=" w-full flex  flex flex-row flex justify-center">
             <ul className="flex flex-row  flex items-center   flex-shrink space-x-6">
             <li><svg className="w-8 h-8 bg-black-100" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 23 23" stroke="gray">
