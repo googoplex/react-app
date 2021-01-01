@@ -29,25 +29,25 @@ function Result(){
                 <li className="p-2">Players can also play six (6) days in advance for less hassle going to-and-fro the lotto outlet.</li>
                 <li className="p-2">Player wins 4,500.00 pesos if he got the standard play combination in exact order.</li>
             </div >
-            <h1 className=" mt-4 font-serif text-md font-semibold  text-2xl text-green-700 ">PCSO New Betting Protocols</h1>
+            <h1 className=" mt-6 font-serif text-md font-semibold  text-2xl text-green-700 ">PCSO New Betting Protocols</h1>
                 <p className="p-2 ">Amid pandemic, all lotto enthusiasts must follow the new rules and regulations imposed at all PCSO lotto outlets in buying tickets to ensure that the minimum health and safety guidelines are met.
                 
                 This is to minimize if not stop the spread of the COVID-19.
                 </p>
 
-            <div className="list-inside bg-green-200">
-                <li>Make sure to wear face mask. Bettor(s) with no face mask will not be allowed to bet.</li>
-                <li>Always observe one (1) meter physical distance from one another.</li>
-                <li>Bring your own pen.</li>
-                <li>Alcohol or sanitizers are available in the lotto outlet. Sanitize before betting.</li>
-                <li>Money tray is available to eliminate contact.</li>
-                <li>Avoid littering. Throw the play slips in the trash bin.</li>
-                <li>Wash your hands with soap and water when returned home.</li>
+            <div className="list-inside bg-green-200 ">
+                <li className="p-2">Make sure to wear face mask. Bettor(s) with no face mask will not be allowed to bet.</li>
+                <li className="p-2">Always observe one (1) meter physical distance from one another.</li>
+                <li className="p-2">Bring your own pen.</li>
+                <li className="p-2">Alcohol or sanitizers are available in the lotto outlet. Sanitize before betting.</li>
+                <li className="p-2">Money tray is available to eliminate contact.</li>
+                <li className="p-2">Avoid littering. Throw the play slips in the trash bin.</li>
+                <li className="p-2">Wash your hands with soap and water when returned home.</li>
             </div>
 
             <h1  className=" mt-4 font-serif text-md font-semibold  text-2xl text-green-700 ">Where to claim the Prize?</h1>
             
-            <p className="p-2 font-sans">If you are the legit winner, be sure to write your name and affix the signature behind the winning ticket. Bring and present two (2) valid IDs for verification.
+            <p className="p-2 font-sans ">If you are the legit winner, be sure to write your name and affix the signature behind the winning ticket. Bring and present two (2) valid IDs for verification.
             </p>
             <p className="p-2">
             The lotto jackpot prizes can be claimed at the PCSO main office located at the PCSO head office located at 605 Conservatory Bldg., Shaw Blvrd. Corner Priceton St., Mandaluyong City.
@@ -57,6 +57,35 @@ function Result(){
             </p>
             <p className="p-2">
             Likewise, for claiming the prizes below P10,000, it can be processed at the nearest PCSO Branch.
+            </p>
+            <h1 className=" mt-6 font-serif text-md font-semibold  text-2xl text-green-700 ">Where to check the PCSO lotto results?</h1>
+            <p>Aside from <a className="underline text-green-700" href="/result">pendut.com</a>, players can also watch the PCSO lotto draws in real-time
+             via PTV as well as their online accounts via Facebook and Twitter. 
+             Official PCSO accounts are airing the lotto draws as well. In special occasions such as important national holidays, 
+             PCSO is announcing the suspension of draws days before the scheduled draw date.</p>
+             <h1 className=" mt-4 font-serif text-md font-semibold  text-2xl text-green-700 ">Quick reminders for PCSO lotto winners</h1>
+             <p className="p-2">The lotto prize ticket, in case you won, has one (1) year validity.
+                 Likewise, the player has the sole responsibility for checking the accuracy of the data printed on the ticket(s) including bet type,
+                  bet amount, the draw date you want to enter and the numbers you want to play.</p>
+             <p className="p-2">Interested players below eighteen (18) years old are not allowed to play any of the PCSO games.</p>
+             <p className="p-2">Additionally, don’t buy your lotto ticket to individuals claiming that the numbers and tickets will win.
+                  Get it from the authorized PCSO outlets only.</p>
+             <p className="p-2">Do not subject the ticket under high temperature. 
+                 Remember that the PCSO generated tickets are heat-sensitive and PCSO will not honor severely damaged tickets.</p>
+             <h1  className=" mt-6 font-serif text-md font-semibold  text-2xl text-green-700 ">About PCSO</h1>
+             <p className="p-2">PCSO is the central agency in the Philippines that legally conducts nationwide lottery draws. 
+                 The money generated from the bets are used to provide funds for charity purposes. 
+                 Likewise, the money are also utilized for health programs, medical assistance & services and charities of national character.
+                  All PCSO lotto result for the major games can come in any order while the digit games should be in exact order.
+            </p>
+            <h1 className=" mt-4 font-serif text-md font-semibold  text-2xl text-green-700 ">
+            Swertres Result Today Updates
+            </h1>
+            <p className="mt-6">
+            For clarifications, comments, complaints or suggestions about PCSO products and services, you may reach them through their official Facebook account.
+            </p>
+            <p className="mt-10">
+            To receive timely updates regarding daily lotto draw results, refer to PCSO official website or follow us at our Facebook and Twitter accounts.
             </p>
         </div>
     </div>
