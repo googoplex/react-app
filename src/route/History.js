@@ -1,8 +1,8 @@
 function History(){
     return(
-        <div className="bg-blue-50 h-full  md:h-full p-3 flex justify-center ">
-        <div className="bg-white max-w-xl md: max-w-xl  p-10 h-full ">
-        <h1 className="font-serif text-md font-semibold  text-3xl text-red-700 text-center">Swertres Result History and Summary</h1>
+        <div className=" h-full  md:h-full p-3 flex justify-center ">
+        <div className="bg-white max-w-sm md:max-w-xl  p-10 h-full ">
+        <h1 className="font-serif  font-semibold  text-2xl text-red-700 text-center">Swertres Result History and Summary</h1>
         <p className="p-2 mt-4 text-xl">The Swertres result history, 3D lotto summary for the year 2021 & 2020 as well as the 
             Swertres results today are available at this website for everyone’s consumption. 
         The results of the Swertres hearing is courtesy of the Philippine Charity Sweepstakes Office (PCSO).</p>
@@ -29,9 +29,9 @@ function History(){
                 <tr>
                     <th>3D Swetres Result Year 2020</th> 
                 </tr>
-                <tr className="border  ml-2"> 
+                <tr className="border  ml-4"> 
                    <td className="p-2 ">January 30 2021</td>
-                   <td className="ml-2">123</td>
+                   <td className="">123</td>
                    <td>435</td>
                    <td>426</td>
 
