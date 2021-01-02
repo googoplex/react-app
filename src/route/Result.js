@@ -4,8 +4,8 @@ import { red } from "@material-ui/core/colors";
 
 function Result(){
     return(
-        <div className="bg-blue-50 h-full   p-3 flex justify-center">
-        <div className="bg-white min-w-0 w-1/2 h-full p-10 max-w-md mx-auto md:max-w-xl ">
+        <div className="bg-blue-50 h-full  p-3 flex justify-center">
+        <div className="bg-white  h-full p-10 max-w-xl mx-auto md:max-w-xl ">
         <h1 className="font-serif text-md font-semibold  text-2xl text-green-700 ">Swertres Result for Today January 30 2021</h1>
             <ul className="p-4 bg-rose-500"> 
                 <li className=" p-2 text-2xl">2PM: 280</li>

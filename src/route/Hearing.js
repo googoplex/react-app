@@ -8,7 +8,10 @@ function Hearing(){
 
             <div className="flex items-start flex-col p-8">
                 <h2 className=" font-sans text-2xl font-semibold  text-red-700">Swertres Lasto Pair:</h2>
-                <div className="  flex items-center justify-start flex-row  text-xl mt-4">
+                <div className="  flex items-center justify-start flex-row  text-xl mt-4 font-semibold font-gray ">
+                <a className="p-2 text-xl">20</a>
+                <a className="p-2">12</a>
+                <a className="p-2">30</a>
                 <a className="p-2">20</a>
                 <a className="p-2">12</a>
                 <a className="p-2">30</a>

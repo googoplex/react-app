@@ -17,6 +17,7 @@ function App() {
     
      <Router>
         <Nav/>
+
         <Switch>
 
           <Route  path="/home" component={Home}/>
@@ -24,6 +25,7 @@ function App() {
           <Route  path="/history" component={History}/>
           <Route  path="/hearing" component={Hearing}/>
         </Switch>
+     
       </Router>
     
     
